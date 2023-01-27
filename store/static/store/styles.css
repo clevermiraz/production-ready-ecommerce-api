@@ -1,0 +1,5 @@
+.thumbnail {
+    width: 100px;
+    height: 10px;
+    object-fit: cover;
+}
