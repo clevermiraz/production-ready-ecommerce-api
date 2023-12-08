@@ -43,3 +43,6 @@ step 5
 ```
 
 happy coding🔥
+
+username: miraz
+password: 1234
